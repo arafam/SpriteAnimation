@@ -1,3 +1,4 @@
-# SpriteAnimation
+# SpriteAnimation 
 
-This a new file just to make sure everything works. 
+The purpose of this assignment is to become familiar with the Asset Manager and
+Game Engine base code, while practicing coding in JavaScript and building example of an animated entity. 
